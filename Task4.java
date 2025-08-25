@@ -4,7 +4,7 @@ public class Task4
 {
     public static void main(String[] args) 
     {
-        final String USERNAME = "SANJIV"; 
+        final String USERNAME = "pklrlk"; 
         final String PASSWORD = "000000"; 
         int attempts = 0;
         final int MAX_ATTEMPTS = 3;
@@ -39,3 +39,4 @@ public class Task4
         sc.close();
     }
 }
+
